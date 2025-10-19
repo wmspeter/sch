@@ -1,0 +1,7 @@
+You are an expert classifier. Given the text below, choose the single best category from the allowed list.
+
+Text: "{text}"
+
+Allowed categories: {allowed_groups}
+
+Return a JSON object: {{"group":"chosen_group"}} (no extra text).

@@ -1,0 +1,8 @@
+pyyaml
+numpy
+scikit-learn
+matplotlib
+reportlab
+transformers
+torch
+huggingface-hub

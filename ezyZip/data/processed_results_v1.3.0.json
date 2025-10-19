@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "text": "I hurt my ankle during PE class.",
+    "group": "Sports",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 2,
+    "text": "Transportation to school is sometimes unreliable.",
+    "group": "Transportation",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 3,
+    "text": "I couldn't finish my homework because I was sick.",
+    "group": "Academics",
+    "group_confidence": 0.1111111111111111,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 4,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 5,
+    "text": "Transportation to school is sometimes unreliable.",
+    "group": "Transportation",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 6,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 7,
+    "text": "I enjoy the music club activities after school.",
+    "group": "Others",
+    "group_confidence": 0.0,
+    "emotion": "Happy",
+    "emotion_confidence": 0.25
+  },
+  {
+    "id": 8,
+    "text": "I'm really stressed about the upcoming exam this week.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 9,
+    "text": "I hurt my ankle during PE class.",
+    "group": "Sports",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 10,
+    "text": "My teacher praised my presentation in class.",
+    "group": "Teachers",
+    "group_confidence": 0.09090909090909091,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 11,
+    "text": "My teacher praised my presentation in class.",
+    "group": "Teachers",
+    "group_confidence": 0.09090909090909091,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 12,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 13,
+    "text": "My teacher praised my presentation in class.",
+    "group": "Teachers",
+    "group_confidence": 0.09090909090909091,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 14,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 15,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 16,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 17,
+    "text": "Transportation to school is sometimes unreliable.",
+    "group": "Transportation",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 18,
+    "text": "I enjoy the music club activities after school.",
+    "group": "Others",
+    "group_confidence": 0.0,
+    "emotion": "Happy",
+    "emotion_confidence": 0.25
+  },
+  {
+    "id": 19,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 20,
+    "text": "I couldn't finish my homework because I was sick.",
+    "group": "Academics",
+    "group_confidence": 0.1111111111111111,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 21,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 22,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 23,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 24,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 25,
+    "text": "I enjoy the music club activities after school.",
+    "group": "Others",
+    "group_confidence": 0.0,
+    "emotion": "Happy",
+    "emotion_confidence": 0.25
+  },
+  {
+    "id": 26,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 27,
+    "text": "I hurt my ankle during PE class.",
+    "group": "Sports",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 28,
+    "text": "The library has helpful resources for my research.",
+    "group": "Library",
+    "group_confidence": 0.2,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 29,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 30,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 31,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 32,
+    "text": "Transportation to school is sometimes unreliable.",
+    "group": "Transportation",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 33,
+    "text": "I hurt my ankle during PE class.",
+    "group": "Sports",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 34,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 35,
+    "text": "The school canteen food tasted bad today.",
+    "group": "Canteen / Food",
+    "group_confidence": 0.375,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 36,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 37,
+    "text": "The library has helpful resources for my research.",
+    "group": "Library",
+    "group_confidence": 0.2,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 38,
+    "text": "The library has helpful resources for my research.",
+    "group": "Library",
+    "group_confidence": 0.2,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 39,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 40,
+    "text": "I hurt my ankle during PE class.",
+    "group": "Sports",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 41,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 42,
+    "text": "I feel lonely and don't have someone to talk to.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 43,
+    "text": "My teacher praised my presentation in class.",
+    "group": "Teachers",
+    "group_confidence": 0.09090909090909091,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 44,
+    "text": "Transportation to school is sometimes unreliable.",
+    "group": "Transportation",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 45,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 46,
+    "text": "I'm really stressed about the upcoming exam this week.",
+    "group": "Mental Health",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 47,
+    "text": "I hurt my ankle during PE class.",
+    "group": "Sports",
+    "group_confidence": 0.14285714285714285,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 48,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 49,
+    "text": "Students often bully each other in the hallway.",
+    "group": "Safety",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  },
+  {
+    "id": 50,
+    "text": "Transportation to school is sometimes unreliable.",
+    "group": "Transportation",
+    "group_confidence": 0.16666666666666666,
+    "emotion": "Neutral",
+    "emotion_confidence": 0.0
+  }
+]

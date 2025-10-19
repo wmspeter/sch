@@ -1,0 +1,7 @@
+You are an expert emotion detector. Given the text below, choose one emotion from the allowed list.
+
+Text: "{text}"
+
+Allowed emotions: {allowed_emotions}
+
+Return a JSON object: {{"emotion":"chosen_emotion"}} (no extra text).

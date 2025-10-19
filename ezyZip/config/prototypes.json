@@ -1,0 +1,177 @@
+{
+  "Academics": [
+    "I can't understand the new chapter in class.",
+    "I'm proud of getting a good grade in academics.",
+    "The academics workload is too heavy."
+  ],
+  "Teachers": [
+    "The teacher explained the lesson clearly.",
+    "I feel the teacher is unfair.",
+    "My teacher encouraged me to participate."
+  ],
+  "Classmates": [
+    "My classmates helped me with homework.",
+    "I have issues with a classmate who teases me.",
+    "I enjoy group work with classmates."
+  ],
+  "Homework": [
+    "I have too much homework tonight.",
+    "Homework helps me learn better.",
+    "The homework deadlines are stressful."
+  ],
+  "Exams & Tests": [
+    "I'm nervous about the upcoming exam.",
+    "I studied hard for the test and felt proud.",
+    "Exams make me anxious."
+  ],
+  "Learning Motivation": [
+    "I feel motivated to study for my future.",
+    "My motivation dropped this semester.",
+    "Teachers inspired my motivation."
+  ],
+  "School Environment": [
+    "The classroom is noisy and distracting.",
+    "School environment is supportive.",
+    "The school building needs repair."
+  ],
+  "Classroom Facilities": [
+    "The projector in my classroom is broken.",
+    "We lack enough chairs in the classroom.",
+    "Classroom facilities are outdated."
+  ],
+  "School Cleanliness": [
+    "The toilets are dirty at school.",
+    "I appreciate the cleaner school's effort.",
+    "School cleanliness affects my comfort."
+  ],
+  "Library": [
+    "The library has good resources for research.",
+    "Library hours are too limited.",
+    "I like studying in the library."
+  ],
+  "Canteen / Food": [
+    "The canteen food tasted bad today.",
+    "I enjoy the healthy options in the canteen.",
+    "Canteen portions are too small."
+  ],
+  "Health (Physical)": [
+    "I have been feeling sick lately.",
+    "Physical education keeps me fit.",
+    "I hurt my ankle during sports."
+  ],
+  "Mental Health / Psychology": [
+    "I feel overwhelmed and stressed.",
+    "Sometimes I feel very lonely at school.",
+    "Talking to a counselor helped my mental health."
+  ],
+  "Sports / Physical Education": [
+    "I love participating in sports day.",
+    "PE classes are exhausting but fun.",
+    "I joined the school football team."
+  ],
+  "Extracurricular Activities": [
+    "The club activities helped me learn new skills.",
+    "I want more extracurricular options.",
+    "Extracurriculars make school life richer."
+  ],
+  "School Events": [
+    "The school festival was exciting.",
+    "Events are organized poorly sometimes.",
+    "I volunteered at the school event."
+  ],
+  "Technology / Devices / Online Learning": [
+    "Online learning platform is glitchy.",
+    "Technology in class enhances learning.",
+    "I struggle with unstable internet during class."
+  ],
+  "Transportation / School Bus": [
+    "The school bus is often late.",
+    "Bus routes are convenient.",
+    "Transportation problems affect attendance."
+  ],
+  "Safety / Bullying": [
+    "I saw bullying in the hallway.",
+    "I feel unsafe walking alone after school.",
+    "School safety protocols need improvement."
+  ],
+  "School Management / Rules": [
+    "Some school rules seem unfair.",
+    "Management handled the situation professionally.",
+    "The schedule change was not communicated well."
+  ],
+  "Family / Home": [
+    "Family problems affect my schoolwork.",
+    "My parents support my education.",
+    "Home responsibilities make studying hard."
+  ],
+  "Parents": [
+    "My parents praised my performance.",
+    "Parents attend school meetings regularly.",
+    "I wish my parents understood my stress."
+  ],
+  "Future / Career Orientation": [
+    "I am worried about choosing a career.",
+    "Career guidance helped me plan.",
+    "I am motivated to achieve my future goals."
+  ],
+  "Finance / Allowance": [
+    "I don't have enough allowance for school trips.",
+    "Financial issues affect my participation.",
+    "I save money to buy school supplies."
+  ],
+  "Friends / Relationships": [
+    "My friends cheer me up during tough times.",
+    "I had a fight with a close friend.",
+    "Friends help each other with projects."
+  ],
+  "Love / Crush": [
+    "I have a crush on someone in my class.",
+    "Feeling shy around my crush makes me nervous.",
+    "My crush supported me during the event."
+  ],
+  "Sleep / Fatigue": [
+    "I feel tired because of late-night studying.",
+    "Lack of sleep affects my concentration.",
+    "I need better sleep schedule."
+  ],
+  "Stress / Pressure": [
+    "I feel pressure to perform well.",
+    "Stress affects my mood negatively.",
+    "High pressure from exams causes anxiety."
+  ],
+  "Appearance / Body Image": [
+    "I worry about my appearance at school.",
+    "Body image comments make me uncomfortable.",
+    "I wish people were less judgmental about looks."
+  ],
+  "Teachers’ Attitude / Behavior": [
+    "The teacher's attitude discouraged me.",
+    "A teacher praised my effort which motivated me.",
+    "Some teachers behave unprofessionally."
+  ],
+  "Peer Pressure": [
+    "I felt peer pressure to join risky behavior.",
+    "Peer pressure affects my decisions.",
+    "My peers influence my choices often."
+  ],
+  "School Schedule / Time Table": [
+    "The new timetable clashes with my classes.",
+    "Long school days make me exhausted.",
+    "Schedule changes are confusing."
+  ],
+  "Homework Load": [
+    "The homework load is overwhelming this week.",
+    "Too much homework reduces free time.",
+    "Homework load needs balancing."
+  ],
+  "Holidays / Vacations": [
+    "I enjoyed the recent holiday break.",
+    "Holidays help me relax and recharge.",
+    "I plan trips during vacations."
+  ],
+  "Others": [
+    "This is unrelated to school.",
+    "Just joking around.",
+    "No specific topic, random comment."
+  ]
+}

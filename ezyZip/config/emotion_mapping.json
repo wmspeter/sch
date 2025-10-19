@@ -1,0 +1,317 @@
+{
+  "Academics": [
+    "Neutral",
+    "Lonely",
+    "Frustrated",
+    "Confused",
+    "Calm",
+    "Anxious",
+    "Nonsense / Irrelevant"
+  ],
+  "Teachers": [
+    "Neutral",
+    "Hopeful",
+    "Sad",
+    "Stressed",
+    "Happy",
+    "Worried",
+    "Nonsense / Irrelevant"
+  ],
+  "Classmates": [
+    "Neutral",
+    "Supported",
+    "Happy",
+    "Proud",
+    "Calm",
+    "Frustrated",
+    "Nonsense / Irrelevant"
+  ],
+  "Homework": [
+    "Neutral",
+    "Happy",
+    "Proud",
+    "Stressed",
+    "Excited",
+    "Motivated",
+    "Nonsense / Irrelevant"
+  ],
+  "Exams & Tests": [
+    "Disappointed",
+    "Sad",
+    "Calm",
+    "Proud",
+    "Neutral",
+    "Happy",
+    "Nonsense / Irrelevant"
+  ],
+  "Learning Motivation": [
+    "Neutral",
+    "Calm",
+    "Hopeful",
+    "Frustrated",
+    "Angry",
+    "Excited",
+    "Nonsense / Irrelevant"
+  ],
+  "School Environment": [
+    "Neutral",
+    "Motivated",
+    "Happy",
+    "Stressed",
+    "Grateful",
+    "Confused",
+    "Nonsense / Irrelevant"
+  ],
+  "Classroom Facilities": [
+    "Stressed",
+    "Angry",
+    "Neutral",
+    "Disappointed",
+    "Excited",
+    "Sad",
+    "Nonsense / Irrelevant"
+  ],
+  "School Cleanliness": [
+    "Angry",
+    "Lonely",
+    "Happy",
+    "Disappointed",
+    "Neutral",
+    "Motivated",
+    "Nonsense / Irrelevant"
+  ],
+  "Library": [
+    "Neutral",
+    "Happy",
+    "Confused",
+    "Sad",
+    "Anxious",
+    "Supported",
+    "Nonsense / Irrelevant"
+  ],
+  "Canteen / Food": [
+    "Neutral",
+    "Hopeful",
+    "Sad",
+    "Motivated",
+    "Disappointed",
+    "Calm",
+    "Nonsense / Irrelevant"
+  ],
+  "Health (Physical)": [
+    "Worried",
+    "Frustrated",
+    "Angry",
+    "Happy",
+    "Neutral",
+    "Tired",
+    "Nonsense / Irrelevant"
+  ],
+  "Mental Health / Psychology": [
+    "Neutral",
+    "Motivated",
+    "Excited",
+    "Sad",
+    "Confused",
+    "Anxious",
+    "Nonsense / Irrelevant"
+  ],
+  "Sports / Physical Education": [
+    "Neutral",
+    "Sad",
+    "Confused",
+    "Happy",
+    "Angry",
+    "Grateful",
+    "Nonsense / Irrelevant"
+  ],
+  "Extracurricular Activities": [
+    "Neutral",
+    "Tired",
+    "Frustrated",
+    "Motivated",
+    "Hopeful",
+    "Grateful",
+    "Nonsense / Irrelevant"
+  ],
+  "School Events": [
+    "Neutral",
+    "Confused",
+    "Tired",
+    "Proud",
+    "Stressed",
+    "Sad",
+    "Nonsense / Irrelevant"
+  ],
+  "Technology / Devices / Online Learning": [
+    "Calm",
+    "Neutral",
+    "Anxious",
+    "Disappointed",
+    "Confused",
+    "Motivated",
+    "Nonsense / Irrelevant"
+  ],
+  "Transportation / School Bus": [
+    "Excited",
+    "Neutral",
+    "Grateful",
+    "Supported",
+    "Disappointed",
+    "Angry",
+    "Nonsense / Irrelevant"
+  ],
+  "Safety / Bullying": [
+    "Calm",
+    "Angry",
+    "Proud",
+    "Neutral",
+    "Stressed",
+    "Hopeful",
+    "Nonsense / Irrelevant"
+  ],
+  "School Management / Rules": [
+    "Neutral",
+    "Grateful",
+    "Frustrated",
+    "Worried",
+    "Motivated",
+    "Happy",
+    "Nonsense / Irrelevant"
+  ],
+  "Family / Home": [
+    "Neutral",
+    "Supported",
+    "Tired",
+    "Anxious",
+    "Happy",
+    "Sad",
+    "Nonsense / Irrelevant"
+  ],
+  "Parents": [
+    "Neutral",
+    "Calm",
+    "Tired",
+    "Confused",
+    "Grateful",
+    "Frustrated",
+    "Nonsense / Irrelevant"
+  ],
+  "Future / Career Orientation": [
+    "Neutral",
+    "Proud",
+    "Calm",
+    "Confused",
+    "Happy",
+    "Frustrated",
+    "Nonsense / Irrelevant"
+  ],
+  "Finance / Allowance": [
+    "Neutral",
+    "Proud",
+    "Happy",
+    "Angry",
+    "Frustrated",
+    "Tired",
+    "Nonsense / Irrelevant"
+  ],
+  "Friends / Relationships": [
+    "Excited",
+    "Proud",
+    "Disappointed",
+    "Angry",
+    "Neutral",
+    "Calm",
+    "Nonsense / Irrelevant"
+  ],
+  "Love / Crush": [
+    "Sad",
+    "Confused",
+    "Grateful",
+    "Neutral",
+    "Stressed",
+    "Lonely",
+    "Nonsense / Irrelevant"
+  ],
+  "Sleep / Fatigue": [
+    "Neutral",
+    "Angry",
+    "Proud",
+    "Lonely",
+    "Excited",
+    "Frustrated",
+    "Nonsense / Irrelevant"
+  ],
+  "Stress / Pressure": [
+    "Neutral",
+    "Calm",
+    "Excited",
+    "Anxious",
+    "Motivated",
+    "Grateful",
+    "Nonsense / Irrelevant"
+  ],
+  "Appearance / Body Image": [
+    "Neutral",
+    "Motivated",
+    "Tired",
+    "Calm",
+    "Happy",
+    "Angry",
+    "Nonsense / Irrelevant"
+  ],
+  "Teachers’ Attitude / Behavior": [
+    "Neutral",
+    "Anxious",
+    "Excited",
+    "Calm",
+    "Worried",
+    "Tired",
+    "Nonsense / Irrelevant"
+  ],
+  "Peer Pressure": [
+    "Neutral",
+    "Worried",
+    "Grateful",
+    "Angry",
+    "Stressed",
+    "Frustrated",
+    "Nonsense / Irrelevant"
+  ],
+  "School Schedule / Time Table": [
+    "Neutral",
+    "Tired",
+    "Excited",
+    "Supported",
+    "Disappointed",
+    "Sad",
+    "Nonsense / Irrelevant"
+  ],
+  "Homework Load": [
+    "Neutral",
+    "Angry",
+    "Supported",
+    "Excited",
+    "Motivated",
+    "Anxious",
+    "Nonsense / Irrelevant"
+  ],
+  "Holidays / Vacations": [
+    "Neutral",
+    "Disappointed",
+    "Proud",
+    "Happy",
+    "Motivated",
+    "Supported",
+    "Nonsense / Irrelevant"
+  ],
+  "Others": [
+    "Neutral",
+    "Calm",
+    "Confused",
+    "Grateful",
+    "Frustrated",
+    "Sad",
+    "Nonsense / Irrelevant"
+  ]
+}

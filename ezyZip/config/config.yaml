@@ -1,0 +1,43 @@
+contextual_reasoning:
+  enabled: true
+  min_similarity_threshold: 0.6
+  similarity_model: all-MiniLM-L6-v2
+  weight: 0.3
+generate_data: true
+huggingface:
+  cache_dir: ./models/bert-base-uncased
+  enabled: true
+  hf_api_key: ''
+  local_model_dir: models
+  model: bert-base-uncased
+  offline_mode: false
+  offline_only: false
+  use_hf: true
+huggingface_api:
+  enabled: false
+  endpoint: ''
+  repo_id: bert-base-uncased
+  token: ''
+huggingface_multilingual: true
+huggingface_online: false
+llm:
+  openai_api_key: ''
+  openai_model: gpt-4o-mini
+  temperature: 0.4
+  use_openai: false
+logs_dir: data/logs
+num_messages: 30
+openai:
+  api_key: ''
+  enabled: false
+  model: gpt-4o-mini
+output_dir: output
+report_format: pdf
+save_reasoning_logs: true
+thresholds:
+  emotion_confidence: 0.55
+  topic_confidence: 0.65
+translate_vi_en: true
+use_hf_classification: true
+use_hf_translation: true
+use_llm_for_context: false

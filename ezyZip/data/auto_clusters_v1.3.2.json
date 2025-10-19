@@ -1,0 +1,126 @@
+{
+  "labs": [
+    4,
+    6,
+    8,
+    0,
+    6,
+    3,
+    5,
+    9,
+    4,
+    2,
+    2,
+    0,
+    2,
+    1,
+    3,
+    0,
+    6,
+    5,
+    0,
+    8,
+    3,
+    0,
+    1,
+    3,
+    5,
+    1,
+    4,
+    7,
+    0,
+    1,
+    3,
+    6,
+    4,
+    3,
+    3,
+    1,
+    7,
+    7,
+    1,
+    4,
+    0,
+    1,
+    2,
+    6,
+    0,
+    9,
+    4,
+    0,
+    0,
+    6
+  ],
+  "mappings": [
+    {
+      "cluster": 0,
+      "suggested_group": "Academics",
+      "group_score": 0.0,
+      "suggested_emotion": "Happy",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 1,
+      "suggested_group": "Teachers",
+      "group_score": 0.0,
+      "suggested_emotion": "Sad",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 2,
+      "suggested_group": "Classmates",
+      "group_score": 0.0,
+      "suggested_emotion": "Angry",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 3,
+      "suggested_group": "Homework",
+      "group_score": 0.0,
+      "suggested_emotion": "Anxious",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 4,
+      "suggested_group": "Exams & Tests",
+      "group_score": 0.0,
+      "suggested_emotion": "Excited",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 5,
+      "suggested_group": "Learning Motivation",
+      "group_score": 0.0,
+      "suggested_emotion": "Bored",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 6,
+      "suggested_group": "School Environment",
+      "group_score": 0.0,
+      "suggested_emotion": "Neutral",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 7,
+      "suggested_group": "Classroom Facilities",
+      "group_score": 0.0,
+      "suggested_emotion": "Proud",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 8,
+      "suggested_group": "School Cleanliness",
+      "group_score": 0.0,
+      "suggested_emotion": "Embarrassed",
+      "emotion_score": 0.0
+    },
+    {
+      "cluster": 9,
+      "suggested_group": "Library",
+      "group_score": 0.0,
+      "suggested_emotion": "Lonely",
+      "emotion_score": 0.0
+    }
+  ]
+}

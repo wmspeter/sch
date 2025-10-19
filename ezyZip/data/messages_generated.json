@@ -1,0 +1,182 @@
+[
+  {
+    "id": "m001",
+    "text": "I love the appearance   body image, it makes me excited.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829781"
+  },
+  {
+    "id": "m002",
+    "text": "I feel happy when we have teachers’ attitude   behavior class.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829806"
+  },
+  {
+    "id": "m003",
+    "text": "School Environment ở trường mình tệ quá, em thất vọng.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829813"
+  },
+  {
+    "id": "m004",
+    "text": "I'm proud of my achievement in appearance   body image.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829819"
+  },
+  {
+    "id": "m005",
+    "text": "I am worried about the upcoming safety   bullying.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829825"
+  },
+  {
+    "id": "m006",
+    "text": "I am worried about the upcoming school events.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829830"
+  },
+  {
+    "id": "m007",
+    "text": "I love the canteen   food, it makes me excited.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829835"
+  },
+  {
+    "id": "m008",
+    "text": "I am worried about the upcoming school events.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829840"
+  },
+  {
+    "id": "m009",
+    "text": "Em mệt vì quá nhiều Peer Pressure.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829846"
+  },
+  {
+    "id": "m010",
+    "text": "I am worried about the upcoming exams and tests.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829853"
+  },
+  {
+    "id": "m011",
+    "text": "Our extracurricular activities makes me feel nervous.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829858"
+  },
+  {
+    "id": "m012",
+    "text": "I'm proud of my achievement in transportation   school bus.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829863"
+  },
+  {
+    "id": "m013",
+    "text": "Can the school improve the technology   devices   online learning?",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829869"
+  },
+  {
+    "id": "m014",
+    "text": "School Environment ở trường mình tệ quá, em thất vọng.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829875"
+  },
+  {
+    "id": "m015",
+    "text": "Our family   home makes me feel nervous.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829880"
+  },
+  {
+    "id": "m016",
+    "text": "Em mệt vì quá nhiều Peer Pressure.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829886"
+  },
+  {
+    "id": "m017",
+    "text": "Our stress   pressure makes me feel nervous.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829892"
+  },
+  {
+    "id": "m018",
+    "text": "Our love   crush makes me feel nervous.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829900"
+  },
+  {
+    "id": "m019",
+    "text": "I want to complain about the school management   rules.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829912"
+  },
+  {
+    "id": "m020",
+    "text": "I am worried about the upcoming friends   relationships.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829920"
+  },
+  {
+    "id": "m021",
+    "text": "Em lo lắng về Canteen / Food.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829930"
+  },
+  {
+    "id": "m022",
+    "text": "The love   crush in our school is terrible, I'm disappointed.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829939"
+  },
+  {
+    "id": "m023",
+    "text": "Em muốn góp ý về School Cleanliness.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829948"
+  },
+  {
+    "id": "m024",
+    "text": "I'm proud of my achievement in learning motivation.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829956"
+  },
+  {
+    "id": "m025",
+    "text": "Our school events makes me feel nervous.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829962"
+  },
+  {
+    "id": "m026",
+    "text": "Teachers’ Attitude / Behavior ở trường mình tệ quá, em thất vọng.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829968"
+  },
+  {
+    "id": "m027",
+    "text": "Em muốn góp ý về Classroom Facilities.",
+    "lang": "vi",
+    "created_at": "2025-10-18T15:35:20.829973"
+  },
+  {
+    "id": "m028",
+    "text": "I am worried about the upcoming mental health   psychology.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829979"
+  },
+  {
+    "id": "m029",
+    "text": "I love the holidays   vacations, it makes me excited.",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829985"
+  },
+  {
+    "id": "m030",
+    "text": "Can the school improve the stress   pressure?",
+    "lang": "en",
+    "created_at": "2025-10-18T15:35:20.829991"
+  }
+]

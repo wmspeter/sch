@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "text_en": "I hurt my ankle during PE class.",
+    "text_vi": "Em bị đau mắt cá khi tập thể dục."
+  },
+  {
+    "id": 2,
+    "text_en": "Transportation to school is sometimes unreliable.",
+    "text_vi": "Việc đi lại đến trường đôi khi không đáng tin cậy."
+  },
+  {
+    "id": 3,
+    "text_en": "I couldn't finish my homework because I was sick.",
+    "text_vi": "Em không hoàn thành bài tập về nhà vì bị ốm."
+  },
+  {
+    "id": 4,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 5,
+    "text_en": "Transportation to school is sometimes unreliable.",
+    "text_vi": "Việc đi lại đến trường đôi khi không đáng tin cậy."
+  },
+  {
+    "id": 6,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 7,
+    "text_en": "I enjoy the music club activities after school.",
+    "text_vi": "Em thích hoạt động câu lạc bộ âm nhạc sau giờ học."
+  },
+  {
+    "id": 8,
+    "text_en": "I'm really stressed about the upcoming exam this week.",
+    "text_vi": "Tôi thực sự căng thẳng về kỳ thi sắp tới tuần này."
+  },
+  {
+    "id": 9,
+    "text_en": "I hurt my ankle during PE class.",
+    "text_vi": "Em bị đau mắt cá khi tập thể dục."
+  },
+  {
+    "id": 10,
+    "text_en": "My teacher praised my presentation in class.",
+    "text_vi": "Giáo viên đã khen bài thuyết trình của tôi trong lớp."
+  },
+  {
+    "id": 11,
+    "text_en": "My teacher praised my presentation in class.",
+    "text_vi": "Giáo viên đã khen bài thuyết trình của tôi trong lớp."
+  },
+  {
+    "id": 12,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 13,
+    "text_en": "My teacher praised my presentation in class.",
+    "text_vi": "Giáo viên đã khen bài thuyết trình của tôi trong lớp."
+  },
+  {
+    "id": 14,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 15,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 16,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 17,
+    "text_en": "Transportation to school is sometimes unreliable.",
+    "text_vi": "Việc đi lại đến trường đôi khi không đáng tin cậy."
+  },
+  {
+    "id": 18,
+    "text_en": "I enjoy the music club activities after school.",
+    "text_vi": "Em thích hoạt động câu lạc bộ âm nhạc sau giờ học."
+  },
+  {
+    "id": 19,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 20,
+    "text_en": "I couldn't finish my homework because I was sick.",
+    "text_vi": "Em không hoàn thành bài tập về nhà vì bị ốm."
+  },
+  {
+    "id": 21,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 22,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 23,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 24,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 25,
+    "text_en": "I enjoy the music club activities after school.",
+    "text_vi": "Em thích hoạt động câu lạc bộ âm nhạc sau giờ học."
+  },
+  {
+    "id": 26,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 27,
+    "text_en": "I hurt my ankle during PE class.",
+    "text_vi": "Em bị đau mắt cá khi tập thể dục."
+  },
+  {
+    "id": 28,
+    "text_en": "The library has helpful resources for my research.",
+    "text_vi": "Thư viện có tài liệu hữu ích cho nghiên cứu của em."
+  },
+  {
+    "id": 29,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 30,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 31,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 32,
+    "text_en": "Transportation to school is sometimes unreliable.",
+    "text_vi": "Việc đi lại đến trường đôi khi không đáng tin cậy."
+  },
+  {
+    "id": 33,
+    "text_en": "I hurt my ankle during PE class.",
+    "text_vi": "Em bị đau mắt cá khi tập thể dục."
+  },
+  {
+    "id": 34,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 35,
+    "text_en": "The school canteen food tasted bad today.",
+    "text_vi": "Đồ ăn căng-tin hôm nay nấu không ngon."
+  },
+  {
+    "id": 36,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 37,
+    "text_en": "The library has helpful resources for my research.",
+    "text_vi": "Thư viện có tài liệu hữu ích cho nghiên cứu của em."
+  },
+  {
+    "id": 38,
+    "text_en": "The library has helpful resources for my research.",
+    "text_vi": "Thư viện có tài liệu hữu ích cho nghiên cứu của em."
+  },
+  {
+    "id": 39,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 40,
+    "text_en": "I hurt my ankle during PE class.",
+    "text_vi": "Em bị đau mắt cá khi tập thể dục."
+  },
+  {
+    "id": 41,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 42,
+    "text_en": "I feel lonely and don't have someone to talk to.",
+    "text_vi": "Em cảm thấy cô đơn và không có ai để nói chuyện."
+  },
+  {
+    "id": 43,
+    "text_en": "My teacher praised my presentation in class.",
+    "text_vi": "Giáo viên đã khen bài thuyết trình của tôi trong lớp."
+  },
+  {
+    "id": 44,
+    "text_en": "Transportation to school is sometimes unreliable.",
+    "text_vi": "Việc đi lại đến trường đôi khi không đáng tin cậy."
+  },
+  {
+    "id": 45,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 46,
+    "text_en": "I'm really stressed about the upcoming exam this week.",
+    "text_vi": "Tôi thực sự căng thẳng về kỳ thi sắp tới tuần này."
+  },
+  {
+    "id": 47,
+    "text_en": "I hurt my ankle during PE class.",
+    "text_vi": "Em bị đau mắt cá khi tập thể dục."
+  },
+  {
+    "id": 48,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 49,
+    "text_en": "Students often bully each other in the hallway.",
+    "text_vi": "Học sinh thường bắt nạt nhau ở hành lang."
+  },
+  {
+    "id": 50,
+    "text_en": "Transportation to school is sometimes unreliable.",
+    "text_vi": "Việc đi lại đến trường đôi khi không đáng tin cậy."
+  }
+]
