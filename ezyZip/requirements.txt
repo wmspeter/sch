@@ -6,3 +6,6 @@ reportlab
 transformers
 torch
 huggingface-hub
+sentence-transformers
+pandas
+openai
